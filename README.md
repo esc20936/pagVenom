@@ -4,7 +4,7 @@
 Visualizador de modelo en 3D del personaje VENOM utilizando React y Three js. Esta es una prueba de como podemos incluir modelos 3D en nuestra pagina web y como podremos interactuar con el modelo.
 
 Puedes verlo a través de mi servidor de AWS: http://3.224.96.87:5002
-IMPORTANTE: PROCURA ABRIRLO DESDE UNA COMPUTADORA Y ESPERA UNOS SEGUNDOS EN QUE CARGUE EL MODELO
+IMPORTANTE: PROCURA ABRIRLO DESDE UNA COMPUTADORA Y ESPERA UNOS SEGUNDOS EN QUE CARGUE EL MODELO ( si estas en un dispositivo móvil puede tardar hasta 15 segundos en cargar el modelo)
 
 ## Screenshots
 
